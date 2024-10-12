@@ -39,7 +39,7 @@ const Main = () => {
         </div>
         <div className="flex1">
         <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=keniyashraj@gmail.com&tf=1"><button className='buttonc'>E-Mail Me</button></a>
-        <button onClick={() => window.open("https://drive.google.com/file/d/1D0MarEA_vK0HZWumDiLTwoMApKx4UkQT/view?usp=sharing", "_blank")} className='buttonb'>Resume</button>
+        <button onClick={() => window.open("https://drive.google.com/file/d/1j59SsWygPMJUDjg2rdQ0dOQDHKJ3O93R/view?usp=sharing", "_blank")} className='buttonb'>Resume</button>
         </div>
       </div>
       <div className="right_main">
