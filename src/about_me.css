@@ -31,3 +31,19 @@
 
     align-items: center;
 }
+@media screen and (max-width: 800px){
+    .heading{
+        font-weight: 300;
+        font-size: 22px;
+    
+    }
+    .about_me_left{
+        font-weight: 300;
+    font-size:10px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    width: 80%;
+    line-height: 1.6;
+    }
+ 
+}
