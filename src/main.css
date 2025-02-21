@@ -148,3 +148,16 @@ body{
     border-radius:  28% 72% 73% 27% / 57% 59% 41% 43%;; 
     box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
   }
+  @media screen and (max-width: 800px){
+    .button{
+      font-size: 10px !important;
+      display: flex;
+      align-items: center;
+    }
+    .right{
+      width: 62%;
+
+      display: flex;
+
+    }
+  }
