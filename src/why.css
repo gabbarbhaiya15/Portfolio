@@ -61,3 +61,19 @@ img.why_logo {
 .up_gap{
     margin-top:10%;
 }
+@media screen and (max-width: 800px){
+    .heading1 {
+        font-size: 6vw;
+    }
+
+    .mid_text {
+        font-size: 3.5vw;
+    }
+
+    .main_text_why {
+        font-size: 2.2vw;
+    }
+    .box{
+        height: 150px; 
+    }
+}
