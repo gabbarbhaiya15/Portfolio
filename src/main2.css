@@ -126,5 +126,60 @@
   img .behind_the_image{
     height:100px;
   }
+  @media screen and (max-width: 800px){
+    .it_is_me{
+      font-weight: 300;
+      font-size: 12px;
+      letter-spacing: 1px;
+    }
+    .names{
   
+      font-weight: 300px;
+      font-size: 35px;  letter-spacing: 1px;
+  
+  }
+  .i_am_a{
+
+      font-weight: 300;
+      font-size: 12px;  letter-spacing: 1px;
+   
+  }
+  .right_main{
+      width:40%;
+      
+  }
+  .Main{
+    margin-top: 30%;
+  }
+  .right_main{
+    width:50%;
+    height: 100%;
+    margin-top: 10%;
+ 
+    
+}
+.follow_me{
+ font-weight: 300;
+  font-size: 15px;
+}
+.logos img {
+  height: 17px;
+  width: 17px;
+  margin: 0 7px;
+  
+}
+.buttonb,
+.buttonc {
+  display: block;
+  width: 100px;
+  height: 30px;
+max-width: 300px;
+  margin: 10px auto;
+  text-align: center;
+  font-weight: 300;
+  font-size: 10px;
+  padding: 9.5px 20px;
+  margin-left: 5px !important;
+}
+  }
     
